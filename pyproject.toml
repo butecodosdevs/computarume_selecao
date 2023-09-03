@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "computarume-selecao"
+version = "0.1.0"
+description = ""
+authors = ["maiconpavi <75434446+maiconpavi@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
