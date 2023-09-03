@@ -1,4 +1,3 @@
 venv
-input.csv
-output.csv
 .~lock*
+*.csv
